@@ -1,0 +1,35 @@
+Grav IC A
+PERFORM ELEMENT RESULT TIME HISTORIES
+Structure = Aitana2022  (Aitana 2022 For Production)
+Analysis Series = GM11  (TCU076)
+Load Case =, [1] = [0] + Perform Gravity
+Element level result type =, Axial Force at I                    
+Units =, kN, m
+Element group number =, 5, group name =, Inclined Columns
+Column 1 =, load factor or max/min indicator
+Column, 2, = element number, 1, in group with node I = node, 4613, at,  16.2, -10.05,  34.3
+Column, 3, = element number, 2, in group with node I = node, 4656, at,  15.894, -10.05,  35.95
+Column, 4, = element number, 3, in group with node I = node, 4657, at,  15.589, -10.05,  37.6
+Column, 5, = element number, 4, in group with node I = node, 4658, at,  15.274, -10.05,  39.3
+Column, 6, = element number, 5, in group with node I = node, 4557, at,  16.2, -2.65,  34.266
+Column, 7, = element number, 6, in group with node I = node, 4659, at,  15.894, -2.65,  35.95
+Column, 8, = element number, 7, in group with node I = node, 4660, at,  15.589, -2.65,  37.6
+Column, 9, = element number, 8, in group with node I = node, 4661, at,  15.274, -2.65,  39.3
+Column, 10, = element number, 9, in group with node I = node, 4620, at,  16.2,  9.55,  32.878
+Column, 11, = element number, 10, in group with node I = node, 4704, at,  15.976,  9.55,  34.3
+Column, 12, = element number, 11, in group with node I = node, 4705, at,  15.716,  9.55,  35.95
+Column, 13, = element number, 12, in group with node I = node, 4706, at,  15.456,  9.55,  37.6
+Column, 14, = element number, 13, in group with node I = node, 4707, at,  15.188,  9.55,  39.3
+Column, 15, = element number, 14, in group with node I = node, 4617, at,  16.2,  2.65,  33.663
+Column, 16, = element number, 15, in group with node I = node, 4708, at,  16.091,  2.65,  34.3
+Column, 17, = element number, 16, in group with node I = node, 4709, at,  15.807,  2.65,  35.95
+Column, 18, = element number, 17, in group with node I = node, 4710, at,  15.524,  2.65,  37.6
+Column, 19, = element number, 18, in group with node I = node, 4711, at,  15.232,  2.65,  39.3
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ .2,-4021.7,-4008.6,-3866.5,-3848.4,-3378.8,-3367.4,-3259.1,-3242.8,-5948.1,-5933.4,-5753.9,-5721.6,-5721.6,-3600.8,-3593,-3604.1,-3561.3,-3545
+ .4,-8024.1,-7998,-7714.6,-7678.3,-6751.1,-6728.5,-6511.7,-6479.2,-11893,-11864,-11505,-11439,-11441,-7198.2,-7182.6,-7204.7,-7118.9,-7086.4
+ .6,-12006,-11966,-11542,-11488,-10116,-10082,-9757.2,-9708.4,-17835,-17790,-17253,-17153,-17157,-10792,-10769,-10802,-10673,-10624
+ .8,-15965,-15912,-15349,-15277,-13474,-13429,-12995,-12930,-23773,-23714,-22998,-22863,-22869,-14382,-14351,-14395,-14222,-14157
+ 1,-19900,-19835,-19133,-19042,-16824,-16767,-16225,-16144,-29707,-29633,-28740,-28568,-28579,-17967,-17929,-17984,-17767,-17686
+Maximum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minimum,-19900,-19835,-19133,-19042,-16824,-16767,-16225,-16144,-29707,-29633,-28740,-28568,-28579,-17967,-17929,-17984,-17767,-17686

@@ -1,0 +1,80 @@
+Grav EVC A
+PERFORM ELEMENT RESULT TIME HISTORIES
+Structure = Aitana2022  (Aitana 2022 For Production)
+Analysis Series = GM11  (TCU076)
+Load Case =, [1] = [0] + Perform Gravity
+Element level result type =, Axial Force at I                    
+Units =, kN, m
+Element group number =, 12, group name =, Elastic Vertical Columns
+Column 1 =, load factor or max/min indicator
+Column, 2, = element number, 1, in group with node I = node, 2147, at,  16.2, -10.05,  15.5
+Column, 3, = element number, 2, in group with node I = node, 2053, at,  16.2,  9.55,  15.5
+Column, 4, = element number, 3, in group with node I = node, 2244, at,  16.2, -10.05,  13.6
+Column, 5, = element number, 4, in group with node I = node, 2335, at,  16.2, -10.05,  11.7
+Column, 6, = element number, 5, in group with node I = node, 2423, at,  16.2, -10.05,  9.8
+Column, 7, = element number, 6, in group with node I = node, 2511, at,  16.2, -10.05,  7.9
+Column, 8, = element number, 7, in group with node I = node, 2687, at,  16.2, -10.05,  4.1
+Column, 9, = element number, 8, in group with node I = node, 2863, at,  16.2, -10.05, 0
+Column, 10, = element number, 9, in group with node I = node, 2599, at,  16.2, -10.05,  6
+Column, 11, = element number, 10, in group with node I = node, 2775, at,  16.2, -10.05,  2.2
+Column, 12, = element number, 11, in group with node I = node, 4619, at,  16.2,  9.55,  32.65
+Column, 13, = element number, 12, in group with node I = node, 4622, at,  16.2,  2.65,  14.451
+Column, 14, = element number, 13, in group with node I = node, 2157, at,  16.2,  2.65,  15.5
+Column, 15, = element number, 14, in group with node I = node, 2247, at,  16.2, -2.65,  13.6
+Column, 16, = element number, 15, in group with node I = node, 2153, at,  16.2, -2.65,  15.5
+Column, 17, = element number, 16, in group with node I = node, 4623, at,  16.2,  2.65,  10.534
+Column, 18, = element number, 17, in group with node I = node, 2339, at,  16.2,  2.65,  11.7
+Column, 19, = element number, 18, in group with node I = node, 2249, at,  16.2,  2.65,  13.6
+Column, 20, = element number, 19, in group with node I = node, 4624, at,  16.2,  9.55,  11.438
+Column, 21, = element number, 20, in group with node I = node, 2286, at,  16.2,  9.55,  11.7
+Column, 22, = element number, 21, in group with node I = node, 2197, at,  16.2,  9.55,  13.6
+Column, 23, = element number, 22, in group with node I = node, 2420, at,  16.2, -2.65,  9.8
+Column, 24, = element number, 23, in group with node I = node, 2332, at,  16.2, -2.65,  11.7
+Column, 25, = element number, 24, in group with node I = node, 4625, at,  16.2,  2.65,  6.7338
+Column, 26, = element number, 25, in group with node I = node, 2515, at,  16.2,  2.65,  7.9
+Column, 27, = element number, 26, in group with node I = node, 2427, at,  16.2,  2.65,  9.8
+Column, 28, = element number, 27, in group with node I = node, 4626, at,  16.2,  9.55,  7.6379
+Column, 29, = element number, 28, in group with node I = node, 2462, at,  16.2,  9.55,  7.9
+Column, 30, = element number, 29, in group with node I = node, 2374, at,  16.2,  9.55,  9.8
+Column, 31, = element number, 30, in group with node I = node, 2596, at,  16.2, -2.65,  6
+Column, 32, = element number, 31, in group with node I = node, 2508, at,  16.2, -2.65,  7.9
+Column, 33, = element number, 32, in group with node I = node, 4627, at,  16.2,  2.65,  2.9338
+Column, 34, = element number, 33, in group with node I = node, 2691, at,  16.2,  2.65,  4.1
+Column, 35, = element number, 34, in group with node I = node, 2603, at,  16.2,  2.65,  6
+Column, 36, = element number, 35, in group with node I = node, 4628, at,  16.2,  9.55,  3.8379
+Column, 37, = element number, 36, in group with node I = node, 2638, at,  16.2,  9.55,  4.1
+Column, 38, = element number, 37, in group with node I = node, 2550, at,  16.2,  9.55,  6
+Column, 39, = element number, 38, in group with node I = node, 2772, at,  16.2, -2.65,  2.2
+Column, 40, = element number, 39, in group with node I = node, 2684, at,  16.2, -2.65,  4.1
+Column, 41, = element number, 40, in group with node I = node, 2867, at,  16.2,  2.65, 0
+Column, 42, = element number, 41, in group with node I = node, 2779, at,  16.2,  2.65,  2.2
+Column, 43, = element number, 42, in group with node I = node, 2814, at,  16.2,  9.55, 0
+Column, 44, = element number, 43, in group with node I = node, 2726, at,  16.2,  9.55,  2.2
+Column, 45, = element number, 44, in group with node I = node, 2860, at,  16.2, -2.65, 0
+Column, 46, = element number, 45, in group with node I = node, 4631, at,  16.2,  9.55,  29.35
+Column, 47, = element number, 46, in group with node I = node, 4636, at,  16.2,  9.55,  26.05
+Column, 48, = element number, 47, in group with node I = node, 4637, at,  16.2,  2.65,  23.536
+Column, 49, = element number, 48, in group with node I = node, 2150, at,  16.2, -10.05,  18.4
+Column, 50, = element number, 49, in group with node I = node, 4632, at,  16.2, -10.05,  24.4
+Column, 51, = element number, 50, in group with node I = node, 4629, at,  16.2, -10.05,  27.7
+Column, 52, = element number, 51, in group with node I = node, 4612, at,  16.2, -10.05,  31
+Column, 53, = element number, 52, in group with node I = node, 2154, at,  16.2, -2.65,  18.4
+Column, 54, = element number, 53, in group with node I = node, 4633, at,  16.2, -2.65,  24.4
+Column, 55, = element number, 54, in group with node I = node, 4621, at,  16.2, -2.65,  27.666
+Column, 56, = element number, 55, in group with node I = node, 4614, at,  16.2, -2.65,  30.966
+Column, 57, = element number, 56, in group with node I = node, 4634, at,  16.2,  2.65,  24.4
+Column, 58, = element number, 57, in group with node I = node, 4635, at,  16.2,  2.65,  27.063
+Column, 59, = element number, 58, in group with node I = node, 4615, at,  16.2,  2.65,  30.363
+Column, 60, = element number, 59, in group with node I = node, 2160, at,  16.2,  2.65,  18.4
+Column, 61, = element number, 60, in group with node I = node, 2056, at,  16.2,  9.55,  18.4
+Column, 62, = element number, 61, in group with node I = node, 4638, at,  16.2,  9.55,  22.472
+Column, 63, = element number, 62, in group with node I = node, 4630, at,  16.2,  9.55,  26.278
+Column, 64, = element number, 63, in group with node I = node, 4618, at,  16.2,  9.55,  29.578
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ .2,-2692.5,-4336,-2036.4,-1821.7,-1690.4,-1639.3,-1599.3,-1617.5,-1598,-1591.9,-5938.3,-1819.8,-2323.4,-1736.9,-2233.3,-1676.8,-1732.9,-1853.8,-2769.4,-3008.9,-3376.8,-1601.5,-1666,-1685.1,-1699.2,-1717,-2573.6,-2674.8,-2797.6,-1622.2,-1642.6,-1720.6,-1725.6,-1725,-2530.4,-2571.8,-2607.2,-1679,-1685.2,-1770.4,-1761.4,-2579,-2567.6,-1745.7,-6147.7,-6291.1,-3861.4,-4474,-4330.5,-4202.1,-4081.4,-3806.5,-3701.6,-3569.7,-3435.2,-3787.8,-3722.9,-3656.9,-3923.1,-6465.4,-6391.1,-6209.9,-6028.4
+ .4,-5372.9,-8668.6,-4064.2,-3636,-3374.3,-3272.7,-3193.2,-3229.9,-3190.3,-3178.6,-11873,-3637.3,-4644.1,-3470.2,-4461.9,-3351.5,-3463.5,-3705.3,-5536.3,-6015.4,-6751,-3199.6,-3328.7,-3368,-3396.1,-3431.7,-5144.8,-5347.2,-5592.7,-3241.1,-3281.9,-3438.9,-3448.8,-3447.8,-5058.5,-5141.2,-5212.1,-3354.7,-3367.2,-3538.4,-3520.5,-5155.6,-5133,-3488.1,-12291,-12577,-7718.4,-8926.9,-8640.2,-8384,-8143.2,-7604.7,-7395.3,-7131.6,-6863.2,-7571.4,-7441.8,-7309.9,-7841.5,-12925,-12777,-12415,-12053
+ .6,-8040.1,-12998,-6082.6,-5442.4,-5051.1,-4899.6,-4781.3,-4836.7,-4776.6,-4759.7,-17803,-5452.5,-6961.8,-5199.6,-6685.4,-5023.7,-5191.8,-5554.5,-8300.7,-9019.1,-10122,-4794.2,-4987.7,-5048.3,-5090.5,-5144,-7713.4,-8017,-8385.3,-4856.5,-4917.7,-5154.6,-5169.6,-5168.1,-7584.1,-7708.2,-7814.5,-5026.9,-5045.7,-5303.9,-5277,-7729.7,-7695.8,-5227,-18429,-18858,-11571,-13357,-12927,-12544,-12184,-11394,-11080,-10685,-10283,-11350,-11157,-10959,-11755,-19380,-19158,-18616,-18073
+ .8,-10693,-17323,-8091.1,-7240.3,-6720.5,-6519.6,-6363.2,-6437.6,-6356.4,-6334.7,-23728,-7265.2,-9276.4,-6924.9,-8903.5,-6693.4,-6917.6,-7401,-11062,-12020,-13490,-6384.9,-6642.8,-6726.1,-6782.4,-6853.8,-10279,-10684,-11175,-6468.1,-6549.7,-6867.7,-6887.7,-6885.7,-10107,-10272,-10414,-6695.4,-6720.4,-7066.8,-7030.8,-10301,-10256,-6962.1,-24562,-25132,-15418,-17762,-17191,-16680,-16201,-15174,-14756,-14230,-13695,-15125,-14867,-14603,-15662,-25828,-25532,-24811,-24088
+ 1,-13332,-21643,-10089,-9029.3,-8381.8,-8132.4,-7938.6,-8032.1,-7929.4,-7903.3,-29649,-9075.1,-11588,-8645.7,-11116,-8360.5,-8640.7,-9244.9,-13821,-15018,-16856,-7971.7,-8293.7,-8401.2,-8471.6,-8560.8,-12843,-13348,-13962,-8075.7,-8177.7,-8578,-8603,-8600.5,-12627,-12834,-13011,-8359.8,-8391.1,-8826.7,-8781.8,-12870,-12813,-8693.3,-30690,-31401,-19260,-22142,-21428,-20792,-20195,-18943,-18422,-17765,-17098,-18894,-18572,-18242,-19564,-32270,-31901,-31000,-30098
+Maximum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minimum,-13332,-21643,-10089,-9029.3,-8381.8,-8132.4,-7938.6,-8032.1,-7929.4,-7903.3,-29649,-9075.1,-11588,-8645.7,-11116,-8360.5,-8640.7,-9244.9,-13821,-15018,-16856,-7971.7,-8293.7,-8401.2,-8471.6,-8560.8,-12843,-13348,-13962,-8075.7,-8177.7,-8578,-8603,-8600.5,-12627,-12834,-13011,-8359.8,-8391.1,-8826.7,-8781.8,-12870,-12813,-8693.3,-30690,-31401,-19260,-22142,-21428,-20792,-20195,-18943,-18422,-17765,-17098,-18894,-18572,-18242,-19564,-32270,-31901,-31000,-30098
