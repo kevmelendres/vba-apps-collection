@@ -1,0 +1,896 @@
+H1 M
+PERFORM STRUCTURE SECTION RESULT TIME HISTORIES
+Structure = Aitana 2022  (Aitana 2022 For Production)
+Analysis Series = GM8  (PS-10)
+Load Case =, [2] = [1] + PS-10
+Units =, kN, m
+Column 1 =, time (sec)
+Column, 2, = section no., 1, name =, TOWER                                   
+Column, 3, = section no., 3, name =, P1A B4UPP                               
+Column, 4, = section no., 4, name =, P1A B3LOW                               
+Column, 5, = section no., 5, name =, P1A B3UPP                               
+Column, 6, = section no., 6, name =, P1A B2LOW                               
+Column, 7, = section no., 7, name =, P1A B2UPP                               
+Column, 8, = section no., 8, name =, P1A B1LOW                               
+Column, 9, = section no., 9, name =, P1A B1UPP                               
+Column, 10, = section no., 10, name =, P1A L1                                  
+Column, 11, = section no., 11, name =, P1A MEZZ                                
+Column, 12, = section no., 12, name =, P1A L2                                  
+Column, 13, = section no., 13, name =, P1A L2UPP                               
+Column, 14, = section no., 14, name =, P1A L3                                  
+Column, 15, = section no., 15, name =, P1A L3UPP                               
+Column, 16, = section no., 16, name =, P1A L4                                  
+Column, 17, = section no., 17, name =, P1A L4UPP                               
+Column, 18, = section no., 18, name =, P1A L5                                  
+Column, 19, = section no., 19, name =, P1A L5UPP                               
+Column, 20, = section no., 20, name =, P1A L5M1                                
+Column, 21, = section no., 21, name =, P1A L5M2                                
+Column, 22, = section no., 22, name =, P1A L6                                  
+Column, 23, = section no., 23, name =, P1A L7                                  
+Column, 24, = section no., 24, name =, P1A L8                                  
+Column, 25, = section no., 25, name =, P1A L9                                  
+Column, 26, = section no., 26, name =, P1A L10                                 
+Column, 27, = section no., 27, name =, P1A L11                                 
+Column, 28, = section no., 28, name =, P1A L12                                 
+Column, 29, = section no., 30, name =, P1A L14                                 
+Column, 30, = section no., 31, name =, P1A L15                                 
+Column, 31, = section no., 32, name =, P1A L16                                 
+Column, 32, = section no., 33, name =, P1A L17                                 
+Column, 33, = section no., 34, name =, P1A L18                                 
+Column, 34, = section no., 35, name =, P1A L19                                 
+Column, 35, = section no., 36, name =, P1A L20                                 
+Column, 36, = section no., 37, name =, P1A L21                                 
+Column, 37, = section no., 38, name =, P1A L22                                 
+Column, 38, = section no., 39, name =, P1A L23                                 
+Column, 39, = section no., 40, name =, P1A L24                                 
+Column, 40, = section no., 41, name =, P1A L25                                 
+Column, 41, = section no., 42, name =, P1A L26                                 
+Column, 42, = section no., 43, name =, P1A L27                                 
+Column, 43, = section no., 44, name =, P1A L28                                 
+Column, 44, = section no., 45, name =, P1A L29                                 
+Column, 45, = section no., 46, name =, P1A L30                                 
+Column, 46, = section no., 47, name =, P1A L31                                 
+Column, 47, = section no., 48, name =, P1A L32                                 
+Column, 48, = section no., 49, name =, P1A L33                                 
+Column, 49, = section no., 50, name =, P1A L34                                 
+Column, 50, = section no., 51, name =, P1A L35                                 
+Column, 51, = section no., 52, name =, P1A L36                                 
+Column, 52, = section no., 53, name =, P1A L37                                 
+Column, 53, = section no., 54, name =, P1A L38                                 
+Column, 54, = section no., 55, name =, P1A L39                                 
+Column, 55, = section no., 56, name =, P1A L40                                 
+Column, 56, = section no., 62, name =, P1A 40THM                               
+Column, 57, = section no., 63, name =, P1A RDECK                               
+Column, 58, = section no., 64, name =, P1A LMR                                 
+Column, 59, = section no., 65, name =, P1A SLMR                                
+Column, 60, = section no., 66, name =, P1A ROOF                                
+Column, 61, = section no., 67, name =, P1B B4UPP                               
+Column, 62, = section no., 68, name =, P1B B3LOW                               
+Column, 63, = section no., 69, name =, P1B B3UPP                               
+Column, 64, = section no., 70, name =, P1B B2LOW                               
+Column, 65, = section no., 71, name =, P1B B2UPP                               
+Column, 66, = section no., 72, name =, P1B B1LOW                               
+Column, 67, = section no., 73, name =, P1B B1UPP                               
+Column, 68, = section no., 74, name =, P1B L1                                  
+Column, 69, = section no., 75, name =, P1B MEZZ                                
+Column, 70, = section no., 76, name =, P1B L2UPP                               
+Column, 71, = section no., 77, name =, P1B L3                                  
+Column, 72, = section no., 78, name =, P1B L3UPP                               
+Column, 73, = section no., 79, name =, P1B L4                                  
+Column, 74, = section no., 80, name =, P1B L4UPP                               
+Column, 75, = section no., 81, name =, P1B L5                                  
+Column, 76, = section no., 82, name =, P1B L5UPP                               
+Column, 77, = section no., 83, name =, P1B L5M1                                
+Column, 78, = section no., 84, name =, P1B L5M2                                
+Column, 79, = section no., 85, name =, P1B L6                                  
+Column, 80, = section no., 86, name =, P1B L7                                  
+Column, 81, = section no., 87, name =, P1B L8                                  
+Column, 82, = section no., 88, name =, P1B L9                                  
+Column, 83, = section no., 89, name =, P1B L10                                 
+Column, 84, = section no., 90, name =, P1B L11                                 
+Column, 85, = section no., 91, name =, P1B L12                                 
+Column, 86, = section no., 93, name =, P1B L14                                 
+Column, 87, = section no., 94, name =, P1B L15                                 
+Column, 88, = section no., 95, name =, P1B L16                                 
+Column, 89, = section no., 96, name =, P1B L17                                 
+Column, 90, = section no., 97, name =, P1B L18                                 
+Column, 91, = section no., 98, name =, P1B L19                                 
+Column, 92, = section no., 99, name =, P1B L20                                 
+Column, 93, = section no., 100, name =, P1B L21                                 
+Column, 94, = section no., 101, name =, P1B L22                                 
+Column, 95, = section no., 102, name =, P1B L23                                 
+Column, 96, = section no., 104, name =, P1B L24                                 
+Column, 97, = section no., 105, name =, P1B L25                                 
+Column, 98, = section no., 106, name =, P1B L26                                 
+Column, 99, = section no., 107, name =, P1B L27                                 
+Column, 100, = section no., 108, name =, P1B L28                                 
+Column, 101, = section no., 109, name =, P1B L29                                 
+Column, 102, = section no., 110, name =, P1B L30                                 
+Column, 103, = section no., 111, name =, P1B L31                                 
+Column, 104, = section no., 112, name =, P1B L32                                 
+Column, 105, = section no., 113, name =, P1B L33                                 
+Column, 106, = section no., 114, name =, P1B L34                                 
+Column, 107, = section no., 115, name =, P1B L35                                 
+Column, 108, = section no., 116, name =, P1B L36                                 
+Column, 109, = section no., 117, name =, P1B L37                                 
+Column, 110, = section no., 118, name =, P1B L38                                 
+Column, 111, = section no., 119, name =, P1B L39                                 
+Column, 112, = section no., 120, name =, P1B L40                                 
+Column, 113, = section no., 121, name =, P1B 40THM                               
+Column, 114, = section no., 122, name =, P1B RDECK                               
+Column, 115, = section no., 123, name =, P1B LMR                                 
+Column, 116, = section no., 126, name =, P1C B4UPP                               
+Column, 117, = section no., 127, name =, P1C B3LOW                               
+Column, 118, = section no., 128, name =, P1C B3UPP                               
+Column, 119, = section no., 129, name =, P1C B2LOW                               
+Column, 120, = section no., 130, name =, P1C B2UPP                               
+Column, 121, = section no., 131, name =, P1C B1LOW                               
+Column, 122, = section no., 132, name =, P1C B1UPP                               
+Column, 123, = section no., 133, name =, P1C L1                                  
+Column, 124, = section no., 134, name =, P1C MEZZ                                
+Column, 125, = section no., 135, name =, P1C L2                                  
+Column, 126, = section no., 136, name =, P1C L2UPP                               
+Column, 127, = section no., 137, name =, P1C L3                                  
+Column, 128, = section no., 138, name =, P1C L3UPP                               
+Column, 129, = section no., 139, name =, P1C L4                                  
+Column, 130, = section no., 140, name =, P1C L4UPP                               
+Column, 131, = section no., 141, name =, P1C L5                                  
+Column, 132, = section no., 142, name =, P1C L5UPP                               
+Column, 133, = section no., 145, name =, P1C L5M1                                
+Column, 134, = section no., 146, name =, P1C L5M2                                
+Column, 135, = section no., 147, name =, P1C L6                                  
+Column, 136, = section no., 148, name =, P1C L7                                  
+Column, 137, = section no., 149, name =, P1C L8                                  
+Column, 138, = section no., 150, name =, P1C L9                                  
+Column, 139, = section no., 151, name =, P1C L10                                 
+Column, 140, = section no., 152, name =, P1C L11                                 
+Column, 141, = section no., 153, name =, P1C L12                                 
+Column, 142, = section no., 155, name =, P1C L14                                 
+Column, 143, = section no., 156, name =, P1C L15                                 
+Column, 144, = section no., 157, name =, P1C L16                                 
+Column, 145, = section no., 158, name =, P1C L17                                 
+Column, 146, = section no., 159, name =, P1C L18                                 
+Column, 147, = section no., 160, name =, P1C L19                                 
+Column, 148, = section no., 161, name =, P1C L20                                 
+Column, 149, = section no., 162, name =, P1C L21                                 
+Column, 150, = section no., 163, name =, P1C L22                                 
+Column, 151, = section no., 164, name =, P1C L23                                 
+Column, 152, = section no., 165, name =, P1C L24                                 
+Column, 153, = section no., 166, name =, P1C L25                                 
+Column, 154, = section no., 167, name =, P1C L26                                 
+Column, 155, = section no., 168, name =, P1C L27                                 
+Column, 156, = section no., 169, name =, P1C L28                                 
+Column, 157, = section no., 170, name =, P1C L29                                 
+Column, 158, = section no., 171, name =, P1C L30                                 
+Column, 159, = section no., 172, name =, P1C L31                                 
+Column, 160, = section no., 173, name =, P1C L32                                 
+Column, 161, = section no., 174, name =, P1C L33                                 
+Column, 162, = section no., 175, name =, P1C L34                                 
+Column, 163, = section no., 176, name =, P1C L35                                 
+Column, 164, = section no., 177, name =, P1C L36                                 
+Column, 165, = section no., 178, name =, P1C L37                                 
+Column, 166, = section no., 179, name =, P1C L38                                 
+Column, 167, = section no., 180, name =, P1C L39                                 
+Column, 168, = section no., 181, name =, P1C L40                                 
+Column, 169, = section no., 182, name =, P1C 40THM                               
+Column, 170, = section no., 183, name =, P1C RDECK                               
+Column, 171, = section no., 184, name =, P1C LMR                                 
+Column, 172, = section no., 187, name =, P2A B4UPP                               
+Column, 173, = section no., 188, name =, P2A B3LOW                               
+Column, 174, = section no., 189, name =, P2A B3UPP                               
+Column, 175, = section no., 190, name =, P2A B2LOW                               
+Column, 176, = section no., 191, name =, P2A B2UPP                               
+Column, 177, = section no., 192, name =, P2A B1LOW                               
+Column, 178, = section no., 193, name =, P2A B1UPP                               
+Column, 179, = section no., 194, name =, P2A L1                                  
+Column, 180, = section no., 195, name =, P2A L2                                  
+Column, 181, = section no., 196, name =, P2A L2UPP                               
+Column, 182, = section no., 197, name =, P2A L3                                  
+Column, 183, = section no., 198, name =, P2A L3UPP                               
+Column, 184, = section no., 199, name =, P2A L4                                  
+Column, 185, = section no., 200, name =, P2A L4UPP                               
+Column, 186, = section no., 201, name =, P2A L5                                  
+Column, 187, = section no., 202, name =, P2A L5UPP                               
+Column, 188, = section no., 204, name =, P2A L5M1                                
+Column, 189, = section no., 205, name =, P2A L5M2                                
+Column, 190, = section no., 206, name =, P2A L6                                  
+Column, 191, = section no., 207, name =, P2A L7                                  
+Column, 192, = section no., 208, name =, P2A L8                                  
+Column, 193, = section no., 209, name =, P2A L9                                  
+Column, 194, = section no., 210, name =, P2A L10                                 
+Column, 195, = section no., 211, name =, P2A L11                                 
+Column, 196, = section no., 212, name =, P2A L12                                 
+Column, 197, = section no., 214, name =, P2A L14                                 
+Column, 198, = section no., 215, name =, P2A L15                                 
+Column, 199, = section no., 216, name =, P2A L16                                 
+Column, 200, = section no., 217, name =, P2A L17                                 
+Column, 201, = section no., 218, name =, P2A L18                                 
+Column, 202, = section no., 219, name =, P2A L19                                 
+Column, 203, = section no., 220, name =, P2A L20                                 
+Column, 204, = section no., 221, name =, P2A L21                                 
+Column, 205, = section no., 222, name =, P2A L22                                 
+Column, 206, = section no., 223, name =, P2A L23                                 
+Column, 207, = section no., 224, name =, P2A L24                                 
+Column, 208, = section no., 225, name =, P2A L25                                 
+Column, 209, = section no., 226, name =, P2A L26                                 
+Column, 210, = section no., 227, name =, P2A L27                                 
+Column, 211, = section no., 228, name =, P2A L28                                 
+Column, 212, = section no., 229, name =, P2A L29                                 
+Column, 213, = section no., 230, name =, P2A L30                                 
+Column, 214, = section no., 231, name =, P2A L31                                 
+Column, 215, = section no., 232, name =, P2A L32                                 
+Column, 216, = section no., 233, name =, P2A L33                                 
+Column, 217, = section no., 234, name =, P2A L34                                 
+Column, 218, = section no., 235, name =, P2A L35                                 
+Column, 219, = section no., 236, name =, P2A L36                                 
+Column, 220, = section no., 237, name =, P2A L37                                 
+Column, 221, = section no., 238, name =, P2A L38                                 
+Column, 222, = section no., 239, name =, P2A L39                                 
+Column, 223, = section no., 240, name =, P2A L40                                 
+Column, 224, = section no., 241, name =, P2A 40THM                               
+Column, 225, = section no., 242, name =, P2A LMR                                 
+Column, 226, = section no., 243, name =, P2A SLMR                                
+Column, 227, = section no., 244, name =, P2A ROOF                                
+Column, 228, = section no., 245, name =, P2B B4UPP                               
+Column, 229, = section no., 246, name =, P2B B3LOW                               
+Column, 230, = section no., 247, name =, P2B B3UPP                               
+Column, 231, = section no., 248, name =, P2B B2LOW                               
+Column, 232, = section no., 249, name =, P2B B2UPP                               
+Column, 233, = section no., 250, name =, P2B B1LOW                               
+Column, 234, = section no., 251, name =, P2B B1UPP                               
+Column, 235, = section no., 252, name =, P2B L1                                  
+Column, 236, = section no., 253, name =, P2B MEZZ                                
+Column, 237, = section no., 254, name =, P2B L2                                  
+Column, 238, = section no., 255, name =, P2B L2UPP                               
+Column, 239, = section no., 256, name =, P2B L3                                  
+Column, 240, = section no., 257, name =, P2B L3UPP                               
+Column, 241, = section no., 258, name =, P2B L4                                  
+Column, 242, = section no., 259, name =, P2B L4UPP                               
+Column, 243, = section no., 260, name =, P2B L5                                  
+Column, 244, = section no., 261, name =, P2B L5UPP                               
+Column, 245, = section no., 262, name =, P2B L5M1                                
+Column, 246, = section no., 263, name =, P2B L5M2                                
+Column, 247, = section no., 264, name =, P2B L6                                  
+Column, 248, = section no., 265, name =, P2B L7                                  
+Column, 249, = section no., 266, name =, P2B L8                                  
+Column, 250, = section no., 267, name =, P2B L9                                  
+Column, 251, = section no., 268, name =, P2B L10                                 
+Column, 252, = section no., 269, name =, P2B L11                                 
+Column, 253, = section no., 270, name =, P2B L12                                 
+Column, 254, = section no., 272, name =, P2B L14                                 
+Column, 255, = section no., 273, name =, P2B L15                                 
+Column, 256, = section no., 274, name =, P2B L16                                 
+Column, 257, = section no., 275, name =, P2B L17                                 
+Column, 258, = section no., 276, name =, P2B L18                                 
+Column, 259, = section no., 277, name =, P2B L19                                 
+Column, 260, = section no., 278, name =, P2B L20                                 
+Column, 261, = section no., 279, name =, P2B L21                                 
+Column, 262, = section no., 280, name =, P2B L22                                 
+Column, 263, = section no., 281, name =, P2B L23                                 
+Column, 264, = section no., 282, name =, P2B L24                                 
+Column, 265, = section no., 283, name =, P2B L25                                 
+Column, 266, = section no., 284, name =, P2B L26                                 
+Column, 267, = section no., 285, name =, P2B L27                                 
+Column, 268, = section no., 286, name =, P2B L28                                 
+Column, 269, = section no., 287, name =, P2B L29                                 
+Column, 270, = section no., 288, name =, P2B L30                                 
+Column, 271, = section no., 289, name =, P2B L31                                 
+Column, 272, = section no., 290, name =, P2B L32                                 
+Column, 273, = section no., 291, name =, P2B L33                                 
+Column, 274, = section no., 292, name =, P2B L34                                 
+Column, 275, = section no., 293, name =, P2B L35                                 
+Column, 276, = section no., 294, name =, P2B L36                                 
+Column, 277, = section no., 295, name =, P2B L37                                 
+Column, 278, = section no., 296, name =, P2B L38                                 
+Column, 279, = section no., 297, name =, P2B L39                                 
+Column, 280, = section no., 298, name =, P2B L40                                 
+Column, 281, = section no., 299, name =, P2B 40THM                               
+Column, 282, = section no., 300, name =, P2B RDECK                               
+Column, 283, = section no., 301, name =, P2B LMR                                 
+Column, 284, = section no., 304, name =, P2A RDECK                               
+Column, 285, = section no., 305, name =, P2C B4UPP                               
+Column, 286, = section no., 306, name =, P2C B3LOW                               
+Column, 287, = section no., 307, name =, P2C B3UPP                               
+Column, 288, = section no., 308, name =, P2C B2LOW                               
+Column, 289, = section no., 309, name =, P2C B2UPP                               
+Column, 290, = section no., 310, name =, P2C B1LOW                               
+Column, 291, = section no., 311, name =, P2C B1UPP                               
+Column, 292, = section no., 312, name =, P2C L1                                  
+Column, 293, = section no., 313, name =, P2C MEZZ                                
+Column, 294, = section no., 314, name =, P2C L2                                  
+Column, 295, = section no., 315, name =, P2C L2UPP                               
+Column, 296, = section no., 316, name =, P2C L3                                  
+Column, 297, = section no., 317, name =, P2C L3UPP                               
+Column, 298, = section no., 318, name =, P2C L4                                  
+Column, 299, = section no., 319, name =, P2C L4UPP                               
+Column, 300, = section no., 320, name =, P2C L5                                  
+Column, 301, = section no., 321, name =, P2C L5UPP                               
+Column, 302, = section no., 322, name =, P2C L5M1                                
+Column, 303, = section no., 323, name =, P2C L5M2                                
+Column, 304, = section no., 324, name =, P2C L6                                  
+Column, 305, = section no., 325, name =, P2C L7                                  
+Column, 306, = section no., 326, name =, P2C L8                                  
+Column, 307, = section no., 327, name =, P2C L9                                  
+Column, 308, = section no., 328, name =, P2C L10                                 
+Column, 309, = section no., 329, name =, P2C L11                                 
+Column, 310, = section no., 330, name =, P2C L12                                 
+Column, 311, = section no., 332, name =, P2C L14                                 
+Column, 312, = section no., 333, name =, P2C L15                                 
+Column, 313, = section no., 334, name =, P2C L16                                 
+Column, 314, = section no., 335, name =, P2C L17                                 
+Column, 315, = section no., 336, name =, P2C L18                                 
+Column, 316, = section no., 337, name =, P2C L19                                 
+Column, 317, = section no., 338, name =, P2C L20                                 
+Column, 318, = section no., 339, name =, P2C L21                                 
+Column, 319, = section no., 340, name =, P2C L22                                 
+Column, 320, = section no., 341, name =, P2C L23                                 
+Column, 321, = section no., 342, name =, P2C L24                                 
+Column, 322, = section no., 343, name =, P2C L25                                 
+Column, 323, = section no., 344, name =, P2C L26                                 
+Column, 324, = section no., 345, name =, P2C L27                                 
+Column, 325, = section no., 346, name =, P2C L28                                 
+Column, 326, = section no., 347, name =, P2C L29                                 
+Column, 327, = section no., 348, name =, P2C L30                                 
+Column, 328, = section no., 349, name =, P2C L31                                 
+Column, 329, = section no., 350, name =, P2C L32                                 
+Column, 330, = section no., 351, name =, P2C L33                                 
+Column, 331, = section no., 352, name =, P2C L34                                 
+Column, 332, = section no., 353, name =, P2C L35                                 
+Column, 333, = section no., 354, name =, P2C L36                                 
+Column, 334, = section no., 355, name =, P2C L37                                 
+Column, 335, = section no., 356, name =, P2C L38                                 
+Column, 336, = section no., 357, name =, P2C L39                                 
+Column, 337, = section no., 358, name =, P2C L40                                 
+Column, 338, = section no., 359, name =, P2C 40THM                               
+Column, 339, = section no., 360, name =, P2C RDECK                               
+Column, 340, = section no., 361, name =, P2C LMR                                 
+Column, 341, = section no., 364, name =, P3 B4UPP                                
+Column, 342, = section no., 365, name =, P3 B3LOW                                
+Column, 343, = section no., 366, name =, P3 B3UPP                                
+Column, 344, = section no., 367, name =, P3 B2LOW                                
+Column, 345, = section no., 368, name =, P3 B2UPP                                
+Column, 346, = section no., 369, name =, P3 B1LOW                                
+Column, 347, = section no., 370, name =, P3 B1UPP                                
+Column, 348, = section no., 371, name =, P3 L1                                   
+Column, 349, = section no., 372, name =, P3 L2                                   
+Column, 350, = section no., 373, name =, P3 L2UPP                                
+Column, 351, = section no., 374, name =, P3 L3                                   
+Column, 352, = section no., 375, name =, P3 L3UPP                                
+Column, 353, = section no., 376, name =, P3 L4                                   
+Column, 354, = section no., 377, name =, P3 L4UPP                                
+Column, 355, = section no., 378, name =, P3 L5                                   
+Column, 356, = section no., 379, name =, P3 L5UPP                                
+Column, 357, = section no., 380, name =, P3 L5M1                                 
+Column, 358, = section no., 381, name =, P3 L5M2                                 
+Column, 359, = section no., 382, name =, P3 L6                                   
+Column, 360, = section no., 383, name =, P3 L7                                   
+Column, 361, = section no., 384, name =, P3 L8                                   
+Column, 362, = section no., 385, name =, P3 L9                                   
+Column, 363, = section no., 386, name =, P3 L10                                  
+Column, 364, = section no., 387, name =, P3 L11                                  
+Column, 365, = section no., 388, name =, P3 L12                                  
+Column, 366, = section no., 390, name =, P3 L14                                  
+Column, 367, = section no., 391, name =, P3 L15                                  
+Column, 368, = section no., 392, name =, P3 L16                                  
+Column, 369, = section no., 393, name =, P3 L17                                  
+Column, 370, = section no., 394, name =, P3 L18                                  
+Column, 371, = section no., 395, name =, P3 L19                                  
+Column, 372, = section no., 396, name =, P3 L20                                  
+Column, 373, = section no., 397, name =, P3 L21                                  
+Column, 374, = section no., 398, name =, P3 L22                                  
+Column, 375, = section no., 399, name =, P3 L23                                  
+Column, 376, = section no., 400, name =, P3 L24                                  
+Column, 377, = section no., 401, name =, P3 L25                                  
+Column, 378, = section no., 402, name =, P3 L26                                  
+Column, 379, = section no., 403, name =, P3 L27                                  
+Column, 380, = section no., 404, name =, P3 L28                                  
+Column, 381, = section no., 405, name =, P3 L29                                  
+Column, 382, = section no., 406, name =, P3 L30                                  
+Column, 383, = section no., 407, name =, P3 L31                                  
+Column, 384, = section no., 408, name =, P3 L32                                  
+Column, 385, = section no., 409, name =, P3 L33                                  
+Column, 386, = section no., 410, name =, P3 L34                                  
+Column, 387, = section no., 411, name =, P3 L35                                  
+Column, 388, = section no., 412, name =, P3 L36                                  
+Column, 389, = section no., 413, name =, P3 L37                                  
+Column, 390, = section no., 414, name =, P3 L38                                  
+Column, 391, = section no., 415, name =, P3 L39                                  
+Column, 392, = section no., 416, name =, P3 L40                                  
+Column, 393, = section no., 417, name =, P3 40THM                                
+Column, 394, = section no., 418, name =, P3 RDECK                                
+Column, 395, = section no., 422, name =, P4 B4UPP                                
+Column, 396, = section no., 423, name =, P4 B3LOW                                
+Column, 397, = section no., 424, name =, P4 B3UPP                                
+Column, 398, = section no., 425, name =, P4 B2LOW                                
+Column, 399, = section no., 426, name =, P4 B2UPP                                
+Column, 400, = section no., 427, name =, P4 B1LOW                                
+Column, 401, = section no., 428, name =, P4 B1UPP                                
+Column, 402, = section no., 429, name =, P4 L1                                   
+Column, 403, = section no., 430, name =, P4 MEZZ                                 
+Column, 404, = section no., 431, name =, P4 L2                                   
+Column, 405, = section no., 432, name =, P4 L2UPP                                
+Column, 406, = section no., 433, name =, P4 L3                                   
+Column, 407, = section no., 434, name =, P4 L3UPP                                
+Column, 408, = section no., 435, name =, P4 L4                                   
+Column, 409, = section no., 436, name =, P4 L4UPP                                
+Column, 410, = section no., 437, name =, P4 L5                                   
+Column, 411, = section no., 438, name =, P4 L5UPP                                
+Column, 412, = section no., 439, name =, P4 L5M1                                 
+Column, 413, = section no., 440, name =, P4 L5M2                                 
+Column, 414, = section no., 441, name =, P4 L6                                   
+Column, 415, = section no., 442, name =, P4 L7                                   
+Column, 416, = section no., 443, name =, P4 L8                                   
+Column, 417, = section no., 444, name =, P4 L9                                   
+Column, 418, = section no., 445, name =, P4 L10                                  
+Column, 419, = section no., 446, name =, P4 L11                                  
+Column, 420, = section no., 447, name =, P4 L12                                  
+Column, 421, = section no., 449, name =, P4 L14                                  
+Column, 422, = section no., 450, name =, P4 L15                                  
+Column, 423, = section no., 451, name =, P4 L16                                  
+Column, 424, = section no., 452, name =, P4 L17                                  
+Column, 425, = section no., 453, name =, P4 L18                                  
+Column, 426, = section no., 454, name =, P4 L19                                  
+Column, 427, = section no., 455, name =, P4 L20                                  
+Column, 428, = section no., 456, name =, P4 L21                                  
+Column, 429, = section no., 457, name =, P4 L22                                  
+Column, 430, = section no., 458, name =, P4 L23                                  
+Column, 431, = section no., 459, name =, P4 L24                                  
+Column, 432, = section no., 460, name =, P4 L25                                  
+Column, 433, = section no., 461, name =, P4 L26                                  
+Column, 434, = section no., 462, name =, P4 L27                                  
+Column, 435, = section no., 463, name =, P4 L28                                  
+Column, 436, = section no., 464, name =, P4 L29                                  
+Column, 437, = section no., 465, name =, P4 L30                                  
+Column, 438, = section no., 466, name =, P4 L31                                  
+Column, 439, = section no., 467, name =, P4 L32                                  
+Column, 440, = section no., 468, name =, P4 L33                                  
+Column, 441, = section no., 469, name =, P4 L34                                  
+Column, 442, = section no., 470, name =, P4 L35                                  
+Column, 443, = section no., 471, name =, P4 L36                                  
+Column, 444, = section no., 472, name =, P4 L37                                  
+Column, 445, = section no., 473, name =, P4 L38                                  
+Column, 446, = section no., 474, name =, P4 L39                                  
+Column, 447, = section no., 475, name =, P4 L40                                  
+Column, 448, = section no., 476, name =, P4 40THM                                
+Column, 449, = section no., 477, name =, P4 RDECK                                
+Column, 450, = section no., 481, name =, P1B L2                                  
+Column, 451, = section no., 482, name =, P5 B4UPP                                
+Column, 452, = section no., 483, name =, P5 B3LOW                                
+Column, 453, = section no., 484, name =, P5 B3UPP                                
+Column, 454, = section no., 485, name =, P5 B2LOW                                
+Column, 455, = section no., 486, name =, P5 B2UPP                                
+Column, 456, = section no., 487, name =, P5 B1LOW                                
+Column, 457, = section no., 488, name =, P5 B1UPP                                
+Column, 458, = section no., 489, name =, P5 L1                                   
+Column, 459, = section no., 491, name =, P5 MEZZ                                 
+Column, 460, = section no., 492, name =, P5 L2                                   
+Column, 461, = section no., 493, name =, P5 L2UPP                                
+Column, 462, = section no., 494, name =, P5 L3                                   
+Column, 463, = section no., 495, name =, P5 L3UPP                                
+Column, 464, = section no., 496, name =, P5 L4                                   
+Column, 465, = section no., 497, name =, P5 L4UPP                                
+Column, 466, = section no., 498, name =, P5 L5                                   
+Column, 467, = section no., 499, name =, P5 L5UPP                                
+Column, 468, = section no., 501, name =, P5 L5M1                                 
+Column, 469, = section no., 502, name =, P5 L5M2                                 
+Column, 470, = section no., 503, name =, P5 L6                                   
+Column, 471, = section no., 504, name =, P5 L7                                   
+Column, 472, = section no., 505, name =, P5 L8                                   
+Column, 473, = section no., 506, name =, P5 L9                                   
+Column, 474, = section no., 507, name =, P5 L10                                  
+Column, 475, = section no., 508, name =, P5 L11                                  
+Column, 476, = section no., 509, name =, P5 L12                                  
+Column, 477, = section no., 511, name =, P5 L14                                  
+Column, 478, = section no., 512, name =, P5 L15                                  
+Column, 479, = section no., 513, name =, P5 L16                                  
+Column, 480, = section no., 514, name =, P5 L17                                  
+Column, 481, = section no., 515, name =, P5 L18                                  
+Column, 482, = section no., 516, name =, P5 L19                                  
+Column, 483, = section no., 517, name =, P5 L20                                  
+Column, 484, = section no., 518, name =, P5 L21                                  
+Column, 485, = section no., 519, name =, P5 L22                                  
+Column, 486, = section no., 520, name =, P5 L23                                  
+Column, 487, = section no., 521, name =, P5 L24                                  
+Column, 488, = section no., 522, name =, P5 L25                                  
+Column, 489, = section no., 523, name =, P5 L26                                  
+Column, 490, = section no., 524, name =, P5 L27                                  
+Column, 491, = section no., 525, name =, P5 L28                                  
+Column, 492, = section no., 526, name =, P5 L29                                  
+Column, 493, = section no., 527, name =, P5 L30                                  
+Column, 494, = section no., 528, name =, P5 L31                                  
+Column, 495, = section no., 529, name =, P5 L32                                  
+Column, 496, = section no., 530, name =, P5 L33                                  
+Column, 497, = section no., 531, name =, P5 L34                                  
+Column, 498, = section no., 532, name =, P5 L35                                  
+Column, 499, = section no., 533, name =, P5 L36                                  
+Column, 500, = section no., 534, name =, P5 L37                                  
+Column, 501, = section no., 535, name =, P5 L38                                  
+Column, 502, = section no., 536, name =, P5 L39                                  
+Column, 503, = section no., 537, name =, P5 L40                                  
+Column, 504, = section no., 538, name =, P5 40THM                                
+Column, 505, = section no., 539, name =, P5 RDECK                                
+Column, 506, = section no., 543, name =, P6 B4UPP                                
+Column, 507, = section no., 544, name =, P6 B3LOW                                
+Column, 508, = section no., 545, name =, P6 B3UPP                                
+Column, 509, = section no., 546, name =, P6 B2LOW                                
+Column, 510, = section no., 547, name =, P6 B2UPP                                
+Column, 511, = section no., 548, name =, P6 B1LOW                                
+Column, 512, = section no., 549, name =, P6 B1UPP                                
+Column, 513, = section no., 551, name =, P6 L1                                   
+Column, 514, = section no., 553, name =, P6 MEZZ                                 
+Column, 515, = section no., 554, name =, P6 L2                                   
+Column, 516, = section no., 555, name =, P6 L2UPP                                
+Column, 517, = section no., 556, name =, P6 L3                                   
+Column, 518, = section no., 557, name =, P6 L3UPP                                
+Column, 519, = section no., 558, name =, P6 L4                                   
+Column, 520, = section no., 559, name =, P6 L4UPP                                
+Column, 521, = section no., 560, name =, P6 L5                                   
+Column, 522, = section no., 561, name =, P6 L5UPP                                
+Column, 523, = section no., 562, name =, P6 L5M1                                 
+Column, 524, = section no., 563, name =, P6 L5M2                                 
+Column, 525, = section no., 564, name =, P6 L6                                   
+Column, 526, = section no., 565, name =, P6 L7                                   
+Column, 527, = section no., 566, name =, P6 L8                                   
+Column, 528, = section no., 567, name =, P6 L9                                   
+Column, 529, = section no., 568, name =, P6 L10                                  
+Column, 530, = section no., 569, name =, P6 L11                                  
+Column, 531, = section no., 570, name =, P6 L12                                  
+Column, 532, = section no., 572, name =, P6 L14                                  
+Column, 533, = section no., 573, name =, P6 L15                                  
+Column, 534, = section no., 574, name =, P6 L16                                  
+Column, 535, = section no., 575, name =, P6 L17                                  
+Column, 536, = section no., 576, name =, P6 L18                                  
+Column, 537, = section no., 577, name =, P6 L19                                  
+Column, 538, = section no., 578, name =, P6 L20                                  
+Column, 539, = section no., 579, name =, P6 L21                                  
+Column, 540, = section no., 580, name =, P6 L22                                  
+Column, 541, = section no., 581, name =, P6 L23                                  
+Column, 542, = section no., 582, name =, P6 L24                                  
+Column, 543, = section no., 583, name =, P6 L25                                  
+Column, 544, = section no., 584, name =, P6 L26                                  
+Column, 545, = section no., 585, name =, P6 L27                                  
+Column, 546, = section no., 586, name =, P6 L28                                  
+Column, 547, = section no., 587, name =, P6 L29                                  
+Column, 548, = section no., 588, name =, P6 L30                                  
+Column, 549, = section no., 589, name =, P6 L31                                  
+Column, 550, = section no., 590, name =, P6 L32                                  
+Column, 551, = section no., 591, name =, P6 L33                                  
+Column, 552, = section no., 592, name =, P6 L34                                  
+Column, 553, = section no., 593, name =, P6 L35                                  
+Column, 554, = section no., 594, name =, P6 L36                                  
+Column, 555, = section no., 595, name =, P6 L37                                  
+Column, 556, = section no., 596, name =, P6 L38                                  
+Column, 557, = section no., 597, name =, P6 L39                                  
+Column, 558, = section no., 598, name =, P6 L40                                  
+Column, 559, = section no., 599, name =, P6 40THM                                
+Column, 560, = section no., 600, name =, P6 RDECK                                
+Column, 561, = section no., 676, name =, ROOF                                    
+Column, 562, = section no., 677, name =, SLMR                                    
+Column, 563, = section no., 678, name =, LMR                                     
+Column, 564, = section no., 679, name =, RDECK                                   
+Column, 565, = section no., 680, name =, 40THM                                   
+Column, 566, = section no., 681, name =, L40                                     
+Column, 567, = section no., 682, name =, L39                                     
+Column, 568, = section no., 683, name =, L38                                     
+Column, 569, = section no., 684, name =, L37                                     
+Column, 570, = section no., 685, name =, L36                                     
+Column, 571, = section no., 686, name =, L35                                     
+Column, 572, = section no., 687, name =, L34                                     
+Column, 573, = section no., 688, name =, L33                                     
+Column, 574, = section no., 689, name =, L32                                     
+Column, 575, = section no., 690, name =, L31                                     
+Column, 576, = section no., 691, name =, L30                                     
+Column, 577, = section no., 692, name =, L29                                     
+Column, 578, = section no., 693, name =, L28                                     
+Column, 579, = section no., 694, name =, L27                                     
+Column, 580, = section no., 695, name =, L26                                     
+Column, 581, = section no., 696, name =, L25                                     
+Column, 582, = section no., 697, name =, L24                                     
+Column, 583, = section no., 698, name =, L23                                     
+Column, 584, = section no., 699, name =, L22                                     
+Column, 585, = section no., 700, name =, L21                                     
+Column, 586, = section no., 701, name =, L20                                     
+Column, 587, = section no., 702, name =, L19                                     
+Column, 588, = section no., 703, name =, L18                                     
+Column, 589, = section no., 704, name =, L17                                     
+Column, 590, = section no., 705, name =, L16                                     
+Column, 591, = section no., 706, name =, L15                                     
+Column, 592, = section no., 707, name =, L14                                     
+Column, 593, = section no., 709, name =, L12                                     
+Column, 594, = section no., 710, name =, L11                                     
+Column, 595, = section no., 711, name =, L10                                     
+Column, 596, = section no., 712, name =, L9                                      
+Column, 597, = section no., 713, name =, L8                                      
+Column, 598, = section no., 714, name =, L7                                      
+Column, 599, = section no., 715, name =, L6                                      
+Column, 600, = section no., 719, name =, L5M2                                    
+Column, 601, = section no., 721, name =, L5M1                                    
+Column, 602, = section no., 722, name =, L5UPP                                   
+Column, 603, = section no., 723, name =, L5                                      
+Column, 604, = section no., 724, name =, L4UPP                                   
+Column, 605, = section no., 725, name =, L4                                      
+Column, 606, = section no., 726, name =, L3UPP                                   
+Column, 607, = section no., 727, name =, L3                                      
+Column, 608, = section no., 728, name =, L2UPP                                   
+Column, 609, = section no., 729, name =, L2                                      
+Column, 610, = section no., 730, name =, MEZZ                                    
+Column, 611, = section no., 731, name =, L1                                      
+Column, 612, = section no., 732, name =, B1MEZZ                                  
+Column, 613, = section no., 733, name =, B1UPP                                   
+Column, 614, = section no., 734, name =, B1LOW                                   
+Column, 615, = section no., 735, name =, B2UPP                                   
+Column, 616, = section no., 736, name =, B2LOW                                   
+Column, 617, = section no., 737, name =, B3UPP                                   
+Column, 618, = section no., 738, name =, B3LOW                                   
+Column, 619, = section no., 739, name =, B4UPP                                   
+Column, 620, = section no., 740, name =, BASE                                    
+Column, 621, = section no., 741, name =, BW L1                                   
+Column, 622, = section no., 742, name =, BW B1MEZZ                               
+Column, 623, = section no., 743, name =, BW B1UPP                                
+Column, 624, = section no., 744, name =, BW B1LOW                                
+Column, 625, = section no., 745, name =, BW B2UPP                                
+Column, 626, = section no., 749, name =, BW B2LOW                                
+Column, 627, = section no., 750, name =, BW B3UPP                                
+Column, 628, = section no., 751, name =, BW B3LOW                                
+Column, 629, = section no., 752, name =, BW B4UPP                                
+Column, 630, = section no., 753, name =, BW BASE                                 
+Column, 631, = section no., 755, name =, P1 B4UPP                                
+Column, 632, = section no., 756, name =, P1 B3LOW                                
+Column, 633, = section no., 757, name =, P1 B3UPP                                
+Column, 634, = section no., 758, name =, P1 B2LOW                                
+Column, 635, = section no., 759, name =, P1 B2UPP                                
+Column, 636, = section no., 760, name =, P1 B1LOW                                
+Column, 637, = section no., 761, name =, P1 B1UPP                                
+Column, 638, = section no., 762, name =, P1 B1MEZZ                               
+Column, 639, = section no., 763, name =, P1 L1                                   
+Column, 640, = section no., 764, name =, P1 MEZZ                                 
+Column, 641, = section no., 765, name =, P1 L2                                   
+Column, 642, = section no., 766, name =, P1 L2UPP                                
+Column, 643, = section no., 767, name =, P1 L3                                   
+Column, 644, = section no., 768, name =, P1 L3UPP                                
+Column, 645, = section no., 769, name =, P1 L4                                   
+Column, 646, = section no., 770, name =, P1 L4UPP                                
+Column, 647, = section no., 771, name =, P1 L5                                   
+Column, 648, = section no., 772, name =, P1 L5UPP                                
+Column, 649, = section no., 773, name =, P1 L5M1                                 
+Column, 650, = section no., 774, name =, P1 L5M2                                 
+Column, 651, = section no., 775, name =, P1 L6                                   
+Column, 652, = section no., 776, name =, P1 L7                                   
+Column, 653, = section no., 777, name =, P1 L8                                   
+Column, 654, = section no., 778, name =, P1 L9                                   
+Column, 655, = section no., 779, name =, P1 L10                                  
+Column, 656, = section no., 780, name =, P1 L11                                  
+Column, 657, = section no., 781, name =, P1 L12                                  
+Column, 658, = section no., 783, name =, P1 L14                                  
+Column, 659, = section no., 784, name =, P1 L15                                  
+Column, 660, = section no., 785, name =, P1 L16                                  
+Column, 661, = section no., 786, name =, P1 L17                                  
+Column, 662, = section no., 787, name =, P1 L18                                  
+Column, 663, = section no., 788, name =, P1 L19                                  
+Column, 664, = section no., 789, name =, P1 L20                                  
+Column, 665, = section no., 790, name =, P1 L21                                  
+Column, 666, = section no., 791, name =, P1 L22                                  
+Column, 667, = section no., 792, name =, P1 L23                                  
+Column, 668, = section no., 793, name =, P1 L24                                  
+Column, 669, = section no., 794, name =, P1 L25                                  
+Column, 670, = section no., 795, name =, P1 L26                                  
+Column, 671, = section no., 796, name =, P1 L27                                  
+Column, 672, = section no., 797, name =, P1 L28                                  
+Column, 673, = section no., 798, name =, P1 L29                                  
+Column, 674, = section no., 799, name =, P1 L30                                  
+Column, 675, = section no., 800, name =, P1 L31                                  
+Column, 676, = section no., 801, name =, P1 L32                                  
+Column, 677, = section no., 802, name =, P1 L33                                  
+Column, 678, = section no., 803, name =, P1 L34                                  
+Column, 679, = section no., 804, name =, P1 L35                                  
+Column, 680, = section no., 805, name =, P1 L36                                  
+Column, 681, = section no., 806, name =, P1 L37                                  
+Column, 682, = section no., 807, name =, P1 L38                                  
+Column, 683, = section no., 808, name =, P1 L39                                  
+Column, 684, = section no., 809, name =, P1 L40                                  
+Column, 685, = section no., 810, name =, P1 40THM                                
+Column, 686, = section no., 811, name =, P1 RDECK                                
+Column, 687, = section no., 812, name =, P2 B4UPP                                
+Column, 688, = section no., 813, name =, P2 B3LOW                                
+Column, 689, = section no., 814, name =, P2 B3UPP                                
+Column, 690, = section no., 815, name =, P2 B2LOW                                
+Column, 691, = section no., 816, name =, P2 B2UPP                                
+Column, 692, = section no., 817, name =, P2 B1LOW                                
+Column, 693, = section no., 818, name =, P2 B1UPP                                
+Column, 694, = section no., 819, name =, P2 B1MEZZ                               
+Column, 695, = section no., 820, name =, P2 L1                                   
+Column, 696, = section no., 821, name =, P2 MEZZ                                 
+Column, 697, = section no., 822, name =, P2 L2                                   
+Column, 698, = section no., 823, name =, P2 L2UPP                                
+Column, 699, = section no., 824, name =, P2 L3                                   
+Column, 700, = section no., 825, name =, P2 L3UPP                                
+Column, 701, = section no., 826, name =, P2 L4                                   
+Column, 702, = section no., 827, name =, P2 L4UPP                                
+Column, 703, = section no., 828, name =, P2 L5                                   
+Column, 704, = section no., 829, name =, P2 L5UPP                                
+Column, 705, = section no., 830, name =, P2 L5M1                                 
+Column, 706, = section no., 831, name =, P2 L5M2                                 
+Column, 707, = section no., 832, name =, P2 L6                                   
+Column, 708, = section no., 833, name =, P2 L7                                   
+Column, 709, = section no., 834, name =, P2 L8                                   
+Column, 710, = section no., 835, name =, P2 L9                                   
+Column, 711, = section no., 836, name =, P2 L10                                  
+Column, 712, = section no., 837, name =, P2 L11                                  
+Column, 713, = section no., 838, name =, P2 L12                                  
+Column, 714, = section no., 840, name =, P2 L14                                  
+Column, 715, = section no., 841, name =, P2 L15                                  
+Column, 716, = section no., 842, name =, P2 L16                                  
+Column, 717, = section no., 843, name =, P2 L17                                  
+Column, 718, = section no., 844, name =, P2 L18                                  
+Column, 719, = section no., 845, name =, P2 L19                                  
+Column, 720, = section no., 846, name =, P2 L20                                  
+Column, 721, = section no., 847, name =, P2 L21                                  
+Column, 722, = section no., 848, name =, P2 L22                                  
+Column, 723, = section no., 849, name =, P2 L23                                  
+Column, 724, = section no., 850, name =, P2 L24                                  
+Column, 725, = section no., 851, name =, P2 L25                                  
+Column, 726, = section no., 852, name =, P2 L26                                  
+Column, 727, = section no., 853, name =, P2 L27                                  
+Column, 728, = section no., 854, name =, P2 L28                                  
+Column, 729, = section no., 855, name =, P2 L29                                  
+Column, 730, = section no., 856, name =, P2 L30                                  
+Column, 731, = section no., 857, name =, P2 L31                                  
+Column, 732, = section no., 858, name =, P2 L32                                  
+Column, 733, = section no., 859, name =, P2 L33                                  
+Column, 734, = section no., 860, name =, P2 L34                                  
+Column, 735, = section no., 861, name =, P2 L35                                  
+Column, 736, = section no., 862, name =, P2 L36                                  
+Column, 737, = section no., 863, name =, P2 L37                                  
+Column, 738, = section no., 864, name =, P2 L38                                  
+Column, 739, = section no., 865, name =, P2 L39                                  
+Column, 740, = section no., 866, name =, P2 L40                                  
+Column, 741, = section no., 867, name =, P2 40THM                                
+Column, 742, = section no., 868, name =, P2 RDECK                                
+Column, 743, = section no., 869, name =, P1 BASE                                 
+Column, 744, = section no., 870, name =, P2 BASE                                 
+Column, 745, = section no., 871, name =, P3 BASE                                 
+Column, 746, = section no., 872, name =, P4 BASE                                 
+Column, 747, = section no., 873, name =, P5 BASE                                 
+Column, 748, = section no., 874, name =, P6 BASE                                 
+Column, 749, = section no., 875, name =, P1 LMR                                  
+Column, 750, = section no., 876, name =, P1 SLMR                                 
+Column, 751, = section no., 877, name =, P1 ROOF                                 
+Column, 752, = section no., 878, name =, P2 LMR                                  
+Column, 753, = section no., 879, name =, P2 SLMR                                 
+Column, 754, = section no., 880, name =, P2 ROOF                                 
+Column, 755, = section no., 881, name =, BW L1 H1                                
+Column, 756, = section no., 882, name =, BW L1 H2                                
+Column, 757, = section no., 883, name =, BW B1MEZZ H1                            
+Column, 758, = section no., 884, name =, BW B1MEZZ H2                            
+Column, 759, = section no., 885, name =, BW B1UPP H1                             
+Column, 760, = section no., 886, name =, BW B1UPP H2                             
+Column, 761, = section no., 887, name =, BW B1LOW H1                             
+Column, 762, = section no., 888, name =, BW B1LOW H2                             
+Column, 763, = section no., 889, name =, BW B2UPP H1                             
+Column, 764, = section no., 890, name =, BW B2UPP H2                             
+Column, 765, = section no., 891, name =, BW B2LOW H1                             
+Column, 766, = section no., 892, name =, BW B2LOW H2                             
+Column, 767, = section no., 893, name =, BW B3UPP H1                             
+Column, 768, = section no., 894, name =, BW B3UPP H2                             
+Column, 769, = section no., 895, name =, BW B3LOW H1                             
+Column, 770, = section no., 896, name =, BW B3LOW H2                             
+Column, 771, = section no., 897, name =, BW B4UPP H1                             
+Column, 772, = section no., 898, name =, BW B4UPP H2                             
+Column, 773, = section no., 899, name =, BW L1 L                                 
+Column, 774, = section no., 900, name =, BW L1 R                                 
+Column, 775, = section no., 901, name =, BW L1 T                                 
+Column, 776, = section no., 902, name =, BW L1 B                                 
+Column, 777, = section no., 903, name =, BW B1MEZZ L                             
+Column, 778, = section no., 904, name =, BW B1MEZZ R                             
+Column, 779, = section no., 905, name =, BW B1MEZZ T                             
+Column, 780, = section no., 906, name =, BW B1MEZZ B                             
+Column, 781, = section no., 907, name =, BW B1UPP L                              
+Column, 782, = section no., 908, name =, BW B1UPP R                              
+Column, 783, = section no., 909, name =, BW B1UPP T                              
+Column, 784, = section no., 910, name =, BW B1UPP B                              
+Column, 785, = section no., 911, name =, BW B1LOW L                              
+Column, 786, = section no., 912, name =, BW B1LOW R                              
+Column, 787, = section no., 913, name =, BW B1LOW T                              
+Column, 788, = section no., 914, name =, BW B1LOW B                              
+Column, 789, = section no., 915, name =, BW B2UPP L                              
+Column, 790, = section no., 916, name =, BW B2UPP R                              
+Column, 791, = section no., 917, name =, BW B2UPP T                              
+Column, 792, = section no., 918, name =, BW B2UPP B                              
+Column, 793, = section no., 919, name =, BW B2LOW L                              
+Column, 794, = section no., 920, name =, BW B2LOW R                              
+Column, 795, = section no., 921, name =, BW B2LOW T                              
+Column, 796, = section no., 922, name =, BW B2LOW B                              
+Column, 797, = section no., 923, name =, BW B3UPP L                              
+Column, 798, = section no., 924, name =, BW B3UPP R                              
+Column, 799, = section no., 925, name =, BW B3UPP T                              
+Column, 800, = section no., 926, name =, BW B3UPP B                              
+Column, 801, = section no., 927, name =, BW B3LOW L                              
+Column, 802, = section no., 928, name =, BW B3LOW R                              
+Column, 803, = section no., 929, name =, BW B3LOW T                              
+Column, 804, = section no., 930, name =, BW B3LOW B                              
+Column, 805, = section no., 931, name =, BW B4UPP L                              
+Column, 806, = section no., 932, name =, BW B4UPP R                              
+Column, 807, = section no., 933, name =, BW B4UPP T                              
+Column, 808, = section no., 934, name =, BW B4UPP B                              
+Column, 809, = section no., 935, name =, BW BASE H1                              
+Column, 810, = section no., 936, name =, BW BASE H2                              
+Column, 811, = section no., 937, name =, BW BASE L                               
+Column, 812, = section no., 938, name =, BW BASE R                               
+Column, 813, = section no., 939, name =, BW BASE T                               
+Column, 814, = section no., 941, name =, BW BASE B                               
+Column, 815, = section no., 942, name =, CORE ROOF                               
+Column, 816, = section no., 943, name =, CORE SLMR                               
+Column, 817, = section no., 944, name =, CORE LMR                                
+Column, 818, = section no., 945, name =, CORE RDECK                              
+Column, 819, = section no., 947, name =, CORE 40THM                              
+Column, 820, = section no., 948, name =, CORE L40                                
+Column, 821, = section no., 949, name =, CORE L39                                
+Column, 822, = section no., 950, name =, CORE L38                                
+Column, 823, = section no., 951, name =, CORE L37                                
+Column, 824, = section no., 952, name =, CORE L36                                
+Column, 825, = section no., 953, name =, CORE L35                                
+Column, 826, = section no., 954, name =, CORE L34                                
+Column, 827, = section no., 955, name =, CORE L33                                
+Column, 828, = section no., 956, name =, CORE L32                                
+Column, 829, = section no., 957, name =, CORE L31                                
+Column, 830, = section no., 958, name =, CORE L30                                
+Column, 831, = section no., 959, name =, CORE L29                                
+Column, 832, = section no., 960, name =, CORE L28                                
+Column, 833, = section no., 961, name =, CORE L27                                
+Column, 834, = section no., 962, name =, CORE L26                                
+Column, 835, = section no., 963, name =, CORE L25                                
+Column, 836, = section no., 964, name =, CORE L24                                
+Column, 837, = section no., 965, name =, CORE L23                                
+Column, 838, = section no., 966, name =, CORE L22                                
+Column, 839, = section no., 967, name =, CORE L21                                
+Column, 840, = section no., 968, name =, CORE L20                                
+Column, 841, = section no., 969, name =, CORE L19                                
+Column, 842, = section no., 970, name =, CORE L18                                
+Column, 843, = section no., 971, name =, CORE L17                                
+Column, 844, = section no., 972, name =, CORE L16                                
+Column, 845, = section no., 973, name =, CORE L15                                
+Column, 846, = section no., 974, name =, CORE L14                                
+Column, 847, = section no., 976, name =, CORE L12                                
+Column, 848, = section no., 977, name =, CORE L11                                
+Column, 849, = section no., 978, name =, CORE L10                                
+Column, 850, = section no., 979, name =, CORE L9                                 
+Column, 851, = section no., 980, name =, CORE L8                                 
+Column, 852, = section no., 981, name =, CORE L7                                 
+Column, 853, = section no., 982, name =, CORE L6                                 
+Column, 854, = section no., 985, name =, CORE L5M2                               
+Column, 855, = section no., 986, name =, CORE L5M1                               
+Column, 856, = section no., 987, name =, CORE L5UPP                              
+Column, 857, = section no., 988, name =, CORE L5                                 
+Column, 858, = section no., 989, name =, CORE L4UPP                              
+Column, 859, = section no., 990, name =, CORE L4                                 
+Column, 860, = section no., 991, name =, CORE L3UPP                              
+Column, 861, = section no., 992, name =, CORE L3                                 
+Column, 862, = section no., 993, name =, CORE L2UPP                              
+Column, 863, = section no., 994, name =, CORE L2                                 
+Column, 864, = section no., 995, name =, CORE L1MEZZ                             
+Column, 865, = section no., 996, name =, CORE L1                                 
+Column, 866, = section no., 997, name =, CORE B1MEZZ                             
+Column, 867, = section no., 998, name =, CORE B1UPP                              
+Column, 868, = section no., 999, name =, CORE B1LOW                              
+Column, 869, = section no., 1000, name =, CORE B2UPP                              
+Column, 870, = section no., 1001, name =, CORE B2LOW                              
+Column, 871, = section no., 1002, name =, CORE B3UPP                              
+Column, 872, = section no., 1003, name =, CORE B3LOW                              
+Column, 873, = section no., 1004, name =, CORE B4UPP                              
+Column, 874, = section no., 1005, name =, CORE BASE                               
+Column, 875, = section no., 1009, name =, BW B4UPP Left Partial                   
+Column, 876, = section no., 1013, name =, BW B4UPP Right Partial                  
+Column, 877, = section no., 1014, name =, BW B3LOW Left Partial                   
+Column, 878, = section no., 1015, name =, BW B3LOW Right Partial                  
+Column, 879, = section no., 1016, name =, BW B3UPP Left Partial                   
+Column, 880, = section no., 1017, name =, BW B3UPP Right Partial                  
+Column, 881, = section no., 1018, name =, BW B2LOW Left Partial                   
+Column, 882, = section no., 1019, name =, BW B2LOW Right Partial                  
+Column, 883, = section no., 1020, name =, BW B2UPP Left Partial                   
+Column, 884, = section no., 1021, name =, BW B2UPP Right Partial                  
+Column, 885, = section no., 1023, name =, BW B1LOW Left Partial                   
+Column, 886, = section no., 1024, name =, BW B1LOW Right Partial                  
+Column, 887, = section no., 1025, name =, BW B1UPP Left Partial                   
+Column, 888, = section no., 1026, name =, BW B1UPP Right Partial                  
+Maximum, 1787500, 135.47, 253.89, 188.13, 228.37, 223.02, 278.2, 199.56, 449.13, 114.56, 633.16, 803.42, 826.49, 557.51, 808.86, 880.46, 391.09, 386.31, 268.6, 373.82, 439.12, 165.79, 139.32, 127.68, 134.96, 144.4, 144.65, 156.81, 140.91, 141.7, 148.87, 157.95, 166.23, 180.72, 196.57, 267.22, 158.11, 178.66, 170.8, 168.66, 199.55, 297.89, 279.8, 277.42, 222.35, 244.84, 219.21, 218.34, 192.11, 152.36, 141.58, 152.92, 137.01, 114.74, 198.17, 21.806, 1448.7, 725.1, 1097, 151.14, 215.93, 147.93, 194.3, 145.09, 200.15, 309.7, 787.66, 137.88, 340.34, 563.9, 118.18, 530.92, 135.53, 560.46, 355.09, 520.55, 701.6, 1388.4, 347.5, 509.21, 595.09, 548.98, 548.17, 528.73, 508.95, 470, 462.56, 459.97, 446.2, 429.78, 420.99, 468.97, 581.87, 580.14, 567.29, 542.85, 504.12, 493.21, 457.68, 426.52, 475.39, 390.32, 348.36, 322.87, 282.18, 263.74, 248.01, 238.83, 215.32, 218.04, 176.65, 121.1, 23.387, 17.824, 55320, 56784, 57710, 60992, 66485, 73773, 80067, 91873, 92386, 92192, 82598, 75577, 74492, 74129, 73609, 75096, 67081, 61630, 62027, 65742, 69264, 51545, 43071, 42832, 41690, 41749, 40296, 39754, 39249, 38329, 37518, 34912, 32319, 32935, 34185, 32922, 30893, 30118, 28060, 26548, 25433, 24849, 23151, 22273, 24973, 25574, 25832, 26270, 26229, 24367, 20476, 16944, 15987, 12439, 4426.3, 2756.9, 250.91, 204.94, 281.81, 191.3, 309.35, 191.18, 328.36, 404.07, 587.01, 427.49, 423.45, 302.55, 296.33, 205.73, 415.86, 225.48, 193.37, 170.09, 496.49, 268.41, 292.33, 179.79, 174.82, 168.84, 153.13, 149.83, 137.3, 156.06, 168.95, 178.66, 184.36, 266.63, 342.85, 482.15, 394.88, 405.44, 348.87, 264.28, 323.65, 401.95, 354.27, 348.48, 282.41, 299.01, 303.24, 350.27, 353.59, 345.99, 323.3, 323.02, 288.05, 223.84, 368.15, 1180.2, 776.02, 1078.8, 274.21, 132.2, 287.23, 115.82, 332.67, 127.06, 494.78, 573.57, 215.72, 616.28, 410.05, 382.99, 323.59, 296.85, 234.57, 454.7, 319.43, 419.99, 489.24, 1093.6, 497.64, 590.13, 669.11, 629.91, 624.57, 600.6, 577.91, 518.05, 487.44, 473.28, 446.47, 447.6, 451.13, 535.71, 728.03, 762.63, 757.41, 709.61, 643.96, 671.15, 643.12, 594.21, 607.67, 521.31, 519.41, 524.89, 573.49, 605.19, 551.64, 450.5, 389.21, 316.69, 301.91, 240.55, 30.615, 22.568, 33.199, 57054, 56293, 55893, 57709, 59043, 60567, 62055, 59301, 51044, 46345, 42119, 37930, 36645, 35726, 36603, 39968, 40661, 41676, 45334, 58863, 48458, 40598, 36316, 35250, 35149, 34563, 32034, 28784, 28576, 29010, 30252, 30355, 30015, 29903, 28105, 25833, 25677, 27308, 25618, 24982, 21240, 23986, 27586, 29110, 26479, 22891, 19733, 18186, 16161, 17469, 18115, 15610, 12273, 9035.1, 3399.9, 3368.5, 4700.9, 4613, 4415.7, 5804.7, 6414.7, 8465.3, 10201, 19957, 13767, 7640.4, 15049, 7765.8, 17782, 7200.8, 17975, 13322, 10348, 8848.9, 12326, 12526, 4782, 4951.8, 5303.8, 5393.7, 5847.5, 6484.1, 7938.6, 8651.7, 8396.8, 8654.9, 8965.6, 9303.8, 9239.6, 10289, 10411, 9918.9, 10180, 10146, 10566, 11605, 11349, 9779.3, 9115.3, 7967.4, 7305, 6662.3, 6468.1, 5878.5, 4875.7, 5109.3, 4915.8, 3217.5, 3599.3, 911.24, 5942.5, 5657.5, 6331.5, 7896.1, 8830.9, 10299, 10579, 11298, 12278, 13280, 6196.5, 12606, 7176.7, 14087, 6463.9, 13644, 11030, 9416.3, 6586.2, 10646, 11376, 5637.6, 4793.4, 5356.1, 5778.6, 6207.8, 6687.3, 7775.5, 8090.1, 7876.6, 8023.7, 8101, 8334.4, 8065.6, 8907.7, 9095.5, 8377.7, 8644.6, 8418.6, 8559.5, 9471.3, 9194.1, 8055.2, 7464.3, 6314.8, 6084.4, 5633.3, 5224.2, 4710.3, 3949.9, 4078.6, 4228.1, 2817.1, 2562.4, 692.42, 903.26, 6405.7, 6101.9, 6765.1, 8456.9, 9450.8, 10918, 11197, 12107, 12495, 12884, 9026.9, 11172, 7097.9, 12119, 7217.6, 12310, 12267, 9787.3, 7714.3, 12858, 10466, 5974.6, 5097.5, 5824.6, 6224.1, 6517.1, 6909.4, 7845.8, 8062.6, 7998.8, 8507.3, 8531.8, 9393.4, 8981.4, 9602.6, 9569.4, 8270.2, 8151, 7863.6, 7975.7, 8797.7, 8435.4, 7352, 6752.8, 6337.6, 6277.3, 6009.2, 5625.7, 5063.8, 4377.3, 4390.5, 4444.4, 2987.3, 2617.9, 758.45, 6343.6, 5903.7, 6440.6, 8847.2, 9905.7, 11773, 12381, 15358, 12811, 10053, 14225, 9243.2, 9094.8, 9511.1, 8933.6, 10386, 13609, 9009.2, 8223.3, 15525, 11134, 6610.8, 5815.6, 6505.3, 6791.3, 6939.3, 7297.7, 8272.2, 8431.6, 8418.7, 8621.9, 8659.7, 9649.5, 9221.7, 9977.3, 10511, 9009.6, 8560.3, 7931.9, 7833.6, 8624.9, 8288.9, 7232.7, 6714.2, 6136, 6241.8, 6075.6, 5773.6, 5136, 4532, 4539.9, 4543.6, 2989.9, 3174.2, 1001.9, 159.48, 4820, 2414.6, 16406, 22102, 78191, 130710, 195130, 267840, 335310, 397550, 454030, 516170, 579370, 643960, 707530, 769420, 834080, 903520, 973130, 1042700, 1137400, 1229500, 1312000, 1381700, 1435700, 1474000, 1495500, 1503400, 1511000, 1538100, 1574700, 1613200, 1650200, 1681300, 1707100, 1734600, 1787500, 1904900, 1866000, 1965200, 1888800, 1954100, 1835800, 2005400, 1918500, 2105600, 1841100, 2181500, 2089200, 5715300, 1589000, 4683400, 1797300, 4548600, 1922600, 4731600, 2057100, 4918400, 5399800, 437660, 581640, 765820, 918180, 981270, 1121500, 1173900, 1300500, 1342400, 1464000, 206340, 209660, 210430, 217420, 218820, 223930, 223800, 227460, 240930, 238430, 234960, 223220, 204850, 202270, 195620, 199690, 199360, 186050, 174420, 164650, 169260, 187700, 154180, 135900, 129490, 127970, 127850, 128370, 132170, 134450, 132480, 130350, 128820, 126450, 125710, 124030, 122550, 122190, 122150, 121930, 125590, 127940, 125030, 115160, 102250, 94507, 88757, 83237, 78916, 73928, 67842, 62152, 53404, 40781, 21411, 5756.3, 198650, 201130, 203090, 209740, 212940, 216220, 217040, 212380, 206420, 197050, 190800, 176540, 171530, 170810, 170220, 172060, 174670, 169850, 167570, 166240, 181890, 173730, 154220, 142030, 136300, 133730, 133080, 131060, 131440, 131430, 128480, 125270, 131570, 136610, 136700, 126040, 116890, 117070, 114390, 114040, 117890, 118940, 113720, 104310, 97664, 101740, 100770, 100160, 97019, 91031, 82497, 71112, 58340, 43374, 24159, 7023.1, 210690, 202810, 7348, 8469.1, 9313.5, 10435, 2206.3, 725.1, 1097, 1043.4, 776.02, 1078.8, 370560, 135420, 63065, 522940, 161750, 605320, 261950, 657360, 298270, 683640, 402390, 719120, 433740, 740210, 523340, 777160, 539260, 803150, 14886, 162380, 1186, 6565.4, 35373, 491850, 1048.2, 1059.5, 28600, 586640, 826.46, 3164.6, 38359, 631690, 667.82, 1424.8, 48047, 656460, 584.32, 656.63, 67081, 680320,-113.16, 540.19, 78384, 697950, 277.54, 745.56, 100070, 721140,-304.53, 412.92, 114270, 741260, 392.34, 652.75, 612860, 851090, 145560, 768050, 140.87, .052068, 2168.5, 1463.6, 2414.6, 8847.1, 58144, 105470, 145070, 169950, 191480, 213400, 229110, 237960, 242280, 249940, 245700, 261190, 288570, 302600, 299090, 293730, 298800, 298280, 301940, 307370, 310170, 313900, 325030, 333850, 342910, 353770, 354390, 347580, 350320, 354210, 360430, 371910, 412980, 498820, 366760, 329440, 323500, 360690, 362510, 375160, 386540, 399940, 413290, 446600, 486780, 556000, 616850, 615320, 618510, 623660, 589440, 597740, 564950, 577820, 557940, 590350, 45381, 23678, 25493, 53361, 32877, 14504, 17102, 44657, 22662, 9859.4, 9325.4, 33157, 13484, 10089
+Minimum,-2521100,-157.29,-112.48,-154.53,-63.111,-146.72,-287.14,-204.48,-907.74,-111.44,-986.62,-851.49,-1005.9,-433.05,-903.28,-629.32,-467.7,-396.3,-211.9,-245.53,-531.49,-178.81,-184.99,-178.75,-176.3,-167.56,-151.68,-162.6,-158.13,-144.99,-160.05,-153.52,-136.99,-152.13,-175.88,-166.4,-158.92,-167.4,-178.16,-215.52,-275.92,-291.94,-276.85,-445.83,-451.41,-445.05,-386.93,-381.49,-379.91,-358.58,-324.67,-310.14,-264.68,-174.72,-308.54,-35.414,-2510,-646.8,-1103.6,-217.94,-150.04,-198.54,-122.31,-195.24,-166.51,-416.16,-963.89,-148.39,-406.51,-773.38,-167.75,-794.91,-224.32,-855.82,-511.2,-593.85,-728.04,-1328.9,-561.61,-692.35,-749.29,-706.02,-699.71,-703.34,-711.72,-684.31,-690.39,-703.95,-714.96,-740.14,-764.9,-720.81,-760.33,-754.25,-775.91,-767.3,-771.64,-745.79,-645.39,-661.37,-807.17,-846.95,-883.55,-847.61,-801.72,-807.16,-777.71,-712.29,-703.76,-636.54,-569.89,-615.43,-47.595,-30.131,-63045,-61761,-61437,-62929,-66801,-70421,-73965,-79456,-78560,-78492,-72930,-72601,-72037,-73599,-73031,-74281,-70428,-67728,-64979,-81251,-61903,-51579,-57206,-56631,-57092,-56269,-56278,-54952,-53389,-55402,-55222,-54101,-56830,-57480,-55001,-51237,-51081,-48492,-44527,-41768,-36680,-32185,-31757,-33039,-32538,-32219,-30487,-30320,-30839,-28046,-25626,-23381,-16795,-10488,-6033.5,-2478.9,-214.43,-168.27,-154.83,-110.9,-222.48,-100.7,-425.44,-598.74,-850.05,-617.28,-487.82,-408.37,-372.59,-289.85,-504.78,-368.2,-250.11,-247.3,-549.08,-169.41,-202.88,-228.76,-249.91,-254.35,-240.6,-275.88,-312.41,-320.29,-365.11,-368.56,-335.81,-332.16,-304.94,-268.61,-257.95,-277.58,-278.55,-256.51,-247.23,-286.04,-297.03,-475.08,-538.8,-613.79,-565.14,-439.54,-379.58,-312.36,-258.43,-193.08,-160.75,-119.01,-284.68,-1666.8,-545.66,-976.85,-172.27,-171.55,-178.84,-164.45,-361.29,-142.85,-628.51,-813.4,-327.58,-1069.4,-639.84,-636.2,-498.4,-516,-341.33,-653.91,-370.95,-527.93,-655.09,-1494.4,-698.68,-850.69,-891.68,-842.31,-845.78,-845.19,-875.19,-872.89,-907.81,-979.97,-1024.3,-1009.2,-958.28,-864.12,-834.68,-813.17,-828.89,-806.19,-800.5,-787.84,-696.86,-708.92,-894.65,-917.8,-1028.4,-996.48,-802.14,-698.02,-590.34,-500.28,-466.52,-450.21,-506.07,-535.61,-36.303,-17.536,-27.412,-67031,-67212,-70503,-74956,-80779,-84800,-90202,-97569,-91674,-90733,-79696,-71740,-67311,-67792,-69862,-77433,-79563,-82761,-89363,-115040,-75808,-71204,-76944,-75103,-72266,-69287,-66827,-63046,-60363,-63157,-62664,-58547,-56627,-54390,-50433,-47222,-46888,-43800,-39962,-37379,-34926,-36711,-33171,-30298,-29601,-28548,-28368,-26130,-23291,-18639,-15832,-15733,-18057,-12449,-6723.2,-5345.7,-7672.7,-5103,-5512.2,-6006.4,-8227.6,-10128,-14341,-23079,-11833,-11881,-13032,-11873,-14295,-11460,-14924,-13922,-12394,-11850,-17264,-11559,-9752.3,-10519,-10400,-10621,-9924.5,-10195,-10947,-10599,-10651,-10457,-9999.2,-10645,-10033,-9154.6,-8796.3,-8769.1,-8734.4,-8956,-8964,-8949.1,-8131,-9277.4,-10175,-9217.9,-9387.5,-8206.5,-6694.7,-5467.5,-4367.4,-3840.4,-2683,-2270.9,-2207.8,-311.95,-9078.7,-7798.5,-8948.4,-10207,-12087,-13499,-13655,-13079,-13036,-14186,-9294.6,-11021,-11065,-12120,-10693,-12729,-13248,-11768,-9622.3,-14792,-10632,-9705.7,-10600,-10398,-10480,-9793.6,-10416,-11018,-10405,-10446,-9432.7,-8264.4,-8229.2,-7732,-7905.2,-8026,-7912.9,-7731,-7762.7,-7912.8,-8100,-7244,-8636.3,-9521.2,-8624.1,-8490.4,-7037,-5601.1,-4504.7,-3570.8,-3149.7,-2566.5,-1629.9,-1934.6,-425.8,-1268.3,-9397.2,-8453.3,-9885.8,-11334,-13183,-14686,-14511,-12967,-12350,-12928,-9402.2,-9304.2,-10815,-10656,-10680,-11310,-13278,-11281,-8869.9,-14523,-9940.8,-9205.8,-9956,-9586.5,-9641.8,-9136.4,-9642.3,-10104,-9488.6,-9593.6,-8558,-7475.4,-7506,-7030.1,-7318.2,-7429.9,-7219.5,-7263.6,-7122.5,-7165.9,-7359.4,-6483.8,-7621.2,-8391.2,-7903.4,-7732.6,-5827.4,-4694.8,-3960.1,-3249.4,-2929,-2706.9,-2722,-2243.2,-450.57,-9412.7,-7619.3,-9630.9,-11436,-14194,-16775,-17457,-16762,-12684,-10277,-10299,-8402.3,-10837,-10960,-11266,-11496,-14446,-11863,-9726.4,-18557,-11172,-10105,-11171,-11028,-11157,-10697,-11497,-12023,-11246,-11345,-10181,-9182.4,-9309.5,-8876.1,-8526.8,-8192,-8412.1,-8119.5,-8157.9,-8121.3,-8468.1,-7447.7,-8803.3,-9548.2,-8996.4,-8714.7,-6322.5,-5097.8,-4021.5,-3356.1,-3099,-3308.3,-3839.4,-2714.3,-366.32,-128.75,-7877.4,-4168.5,-35143,-80158,-177060,-260560,-339520,-412160,-492890,-579780,-659200,-727580,-782140,-829270,-886220,-946400,-998340,-1045300,-1089900,-1132400,-1203500,-1301300,-1398000,-1495000,-1599300,-1704800,-1807300,-1902100,-1988900,-2067700,-2142600,-2214800,-2283700,-2346700,-2404600,-2456700,-2521100,-2716000, 238920,-2037700, 19631,-2123400, 912920,-1420500, 900440,-1405100, 767210,-1421800, 779100,-156220,-1348300,-1252900,-1962400,-1588000,-2236700,-1785300,-2513400,-1987000,-2241100,-383730,-664640,-907180,-1064600,-1276100,-1394000,-1579700,-1681100,-1852200,-1997300,-233120,-233010,-240260,-246040,-258530,-266810,-275610,-277130,-282950,-268510,-263680,-252220,-253800,-258520,-270840,-277240,-287560,-286940,-290230,-289360,-305170,-256540,-250140,-250010,-243260,-238320,-232220,-226810,-226030,-222700,-216530,-202900,-189980,-183700,-177010,-168240,-163980,-162370,-158080,-159170,-166100,-165700,-163080,-158120,-150440,-144630,-138020,-126960,-109570,-87642,-69648,-54341,-38918,-25933,-19205,-9739.8,-238670,-240730,-249260,-253960,-265970,-269990,-279720,-282140,-288310,-274440,-271390,-244110,-229180,-233210,-242090,-247020,-252610,-252170,-254310,-253710,-270070,-201600,-193440,-195490,-192030,-187840,-185930,-185750,-183490,-181370,-180320,-175390,-169470,-164850,-153390,-137600,-125190,-117010,-110700,-115250,-115490,-111350,-107380,-100720,-96177,-96291,-97198,-90678,-79222,-67454,-57259,-49770,-43506,-34195,-19057,-10884,-231950,-233870,-11186,-11267,-11171,-11289,-5203.8,-646.8,-1103.6,-4666,-545.66,-976.85,-56674,-429830,-378410,-301890,-563550,-357640,-656310,-420420,-796910,-495930,-870250,-550880,-1003600,-616950,-1075400,-666620,-1208200,-728120,-44285,-421650,-2087.3,-5344.2,-31655,-280060,-1818,-1734.1,-28243,-342060,-1960.3,-2973.8,-39796,-397120,-2121.4,-1757.8,-73228,-448900,-1074.7,-589.46,-96496,-489750,-1501.8,-729.15,-130250,-531920,-712.03,-672.26,-155290,-566470,-1426.6,-633.12,-191000,-603000,-351.72,-835.16,-1274200,-781580,-227260,-633580,-291.54,-.08194,-2080.4,-1192.5,-4168.5,-18839,-35260,-53013,-72103,-97683,-118150,-145450,-177000,-205370,-222590,-223710,-223830,-231300,-231840,-236520,-239190,-229840,-213660,-215820,-216710,-220040,-235070,-247320,-248830,-263730,-287560,-292620,-296280,-292770,-290860,-300500,-307600,-319720,-308850,-311990,-474310,-401720,-408760,-399200,-414760,-378250,-386160,-351610,-369540,-365540,-435220,-453650,-507580,-508930,-511350,-486860,-493540,-447090,-453030,-419260,-437200,-427960,-59820,-61386,-30817,-19525,-43153,-47843,-20665,-14246,-28552,-38648,-12259,-11103,-15943,-32047
